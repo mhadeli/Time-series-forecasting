@@ -6,8 +6,6 @@ Welcome to this repository, where I explore various time series forecasting tech
 ---
 Overview
 This repository contains a collection of time series forecasting models, including:
-
----
 Statistical Models
 Simple and robust models that leverage statistical techniques to forecast future values.
 Machine Learning Models
@@ -20,15 +18,12 @@ GRU: A gated recurrent unit neural network for time series forecasting.
 Getting Started
 To get started with this repository, follow these steps:
 
----
 Clone the Repository
 Clone this repository to your local machine using git clone https://github.com/mhadeli/time-series-forecasting.git.
 
----
 Explore the Models
 Explore the various models in the models directory, and run them using the run_model.py script.
 
----
 Models
 Statistical Models
 Linear Regression: linear_regression.py
@@ -37,15 +32,12 @@ Machine Learning Models
 LSTM: lstm.py
 GRU: gru.py
 
----
 Contributing
 Contributions are welcome! If you'd like to contribute to this repository, please follow these steps:
 
----
 License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
----
 Acknowledgments
 This repository is inspired by various sources, including:
 
