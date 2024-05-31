@@ -47,4 +47,4 @@ PyTorch: PyTorch tutorials and examples.
 
 ---
 Contact
-If you have any questions or need help with this repository, please feel free to contact me at [adeliberate@outlook.com].
+If you have any questions or need help with this repository, please feel free to contact me at [datamind@outlook.de].
